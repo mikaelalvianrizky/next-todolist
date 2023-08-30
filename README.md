@@ -16,4 +16,4 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
 
-If you want to run the development server, make sure call ```bash npm run json-server``` to run the fake db. After that, you can call ```bash npm run dev``` 
+If you want to run the development server, make sure call ```npm run json-server``` to run the fake db. After that, you can call ```npm run dev``` 
